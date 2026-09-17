@@ -1,0 +1,7 @@
+# Exclude specific files
+image.png
+inference.py
+
+# Python cache
+__pycache__/
+*.pyc
